@@ -4,10 +4,12 @@ body {
   padding: 10px;
 }
 img {
-  max-width: 100%;
+   width: 100%;
+  max-width: 400px;
   height: auto;
 header {
-  display: flex;
+  display: block;
+  margin: 10px auto;
   justify-content: space-between;
   align-items: center;
 }
